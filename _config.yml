@@ -1,0 +1,15 @@
+title: "Esteemed Styleguide"
+description: >-
+url: "https://styleguide.esteemed.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-menus
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,0 +1,18 @@
+<div class='sg-nav fixed_item absolute sticky' data-fixed-item data-swiftype-index='false' style='top: 87px; bottom: auto;'>
+  <div class='sg-nav_wrapper'>
+    <div class='sg-nav_main'>
+      <div class='sg-nav_scroll'>
+        <h3 class='sg-menu_head mb3'>Go to Section</h3>
+        <nav>
+          <ul>
+            {% for item in site.data.menus.navigation %}
+            <li class='sg-nav_item{% if item.url == page.url %} active{% endif %}'>
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>

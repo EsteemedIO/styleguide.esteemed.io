@@ -1,0 +1,53 @@
+---
+navigation:
+- title: "Writing Goals and Principles"
+  url: "/writing-principles.html"
+  weight: 1
+- title: "Voice and Tone"
+  url: "/voice-and-tone.html"
+  weight: 2
+- title: "Writing About People"
+  url: "/writing-about-people.html"
+  weight: 3
+- title: "Grammar and Mechanics"
+  url: "/grammar-and-mechanics.html"
+  weight: 4
+- title: "Web Elements"
+  url: "/web-elements.html"
+  weight: 5
+- title: "Writing Blog Posts"
+  url: "/writing-blog-posts.html"
+  weight: 6
+- title: "Writing Technical Content"
+  url: "/writing-technical-content.html"
+  weight: 7
+- title: "Writing Legal Content"
+  url: "/writing-legal-content.html"
+  weight: 8
+- title: "Writing Email Newsletters"
+  url: "/writing-email-newsletters.html"
+  weight: 9
+- title: "Writing for Social Media"
+  url: "/writing-for-social-media.html"
+  weight: 10
+- title: "Writing for Accessibility"
+  url: "/writing-for-accessibility.html"
+  weight: 11
+- title: "Writing for Translation"
+  url: "/writing-for-translation.html"
+  weight: 12
+- title: "Creating Structured Content"
+  url: "/creating-structured-content.html"
+  weight: 13
+- title: "Copyright and Trademarks"
+  url: "/copyright-and-trademarks.html"
+  weight: 14
+- title: "Word List"
+  url: "/word-list.html"
+  weight: 15
+- title: "Further Reading"
+  url: "/further-reading.html"
+  weight: 16
+- title: "TL;DR"
+  url: "/tldr.html"
+  weight: 17
