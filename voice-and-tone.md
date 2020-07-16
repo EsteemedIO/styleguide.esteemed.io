@@ -34,5 +34,5 @@ Esteemed’s tone is usually informal, but it’s always more important to be cl
 Here are a few key elements of writing Esteemed’s voice. For more, see the [Grammar and mechanics section](https://styleguide.esteemed.io/grammar-and-mechanics.html).
 
 * [**Active voice**](https://styleguide.esteemed.io/grammar-and-mechanics.html) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon**](https://styleguide.mailchimp.com/grammar-and-mechanics/#header-3-slang-and-jargon) Write in plain English.
+* [**Avoid slang and jargon**](https://styleguide.esteemed.io/grammar-and-mechanics.html) Write in plain English.
 * [**Write positively**](https://styleguide.esteemed.io/grammar-and-mechanics.html) Use positive language rather than negative language.
