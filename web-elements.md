@@ -1,7 +1,7 @@
 ---
 title: Web Elements
----
 
+---
 Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.
 
 ## Guidelines
@@ -10,7 +10,7 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the [Accessibility](/12-writing-for-accessibility.html.md) section.
+For more on how and why we use alt text, read the Accessibility section.
 
 ### Buttons
 
@@ -18,10 +18,10 @@ Buttons should always contain actions. The language should be clear and concise.
 
 Standard website buttons include:
 
-- Log In
-- Sign Up Free
-- Subscribe
-- Email Us
+* Log In
+* Get Started
+* Subscribe
+* Email Us
 
 ### Checkboxes
 
@@ -39,7 +39,7 @@ Use title case for form titles and sentence case for form fields.
 
 Keep forms as short as possible.
 
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
+Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender.
 
 ### Headings and subheadings
 
@@ -61,18 +61,18 @@ Provide a link whenever you’re referring to something on an external website. 
 
 Don’t include preceding articles (a, an, the, our) when you link text. For example:
 
-- Yes: Read the [automation guide](#) for details.
-- No: Read [the automation guide](#) for details.
+* Yes: Read the job description for more details.
+* No: Read the job description for more details.
 
 If a link comes at the end of a sentence or before a comma, don’t link the punctuation mark.
 
 Don’t say things like “Click here!” or “Click for more information” or “Read this.” Write the sentence as you normally would, and link relevant keywords.
 
-Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state. When setting the hover state of links, be sure to include focus state as well, to help readers using assistive technologies and touch devices.
+Links should look different than regular copy, strong text, or emphasis text. They should have a hover state that communicates they’re interactive, and should have a distinct active and visited state.
 
 ### Lists
 
-Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter. 
+Use lists to present steps, groups, or sets of information. Give context for the list with a brief introduction. Number lists when the order is important, like when you’re describing steps of a process. Don’t use numbers when the list’s order doesn’t matter.
 
 If one of the list items is a complete sentence, use proper punctuation and capitalization on all of the items. If list items are not complete sentences, don’t use punctuation, but do capitalize the first word of each item.
 
@@ -107,7 +107,5 @@ Don’t use punctuation in a title unless the title is a question.
 We write for humans, not machines. We don't use gross SEO techniques like keyword stuffing to bump search results. But we also want to make it easy for people and search engines to find and share our content. Here are some not-icky ways to do this:
 
 * Organize your page around one topic. Use clear, descriptive terms in titles and headings that relate to the topic at hand.
-
 * Use descriptive headings to structure your page and highlight important information.
-
 * Give every image descriptive alt text.
