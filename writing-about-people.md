@@ -1,24 +1,20 @@
 ---
 title: Writing About People
----
 
-We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
+---
+Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Esteemed a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
 
 ### As part of an audience
 
-- Don’t capitalize “audience” unless it’s grammatically necessary.
-- Don’t refer to an audience as “it.” Audiences are made up of real people, so always use “they.”
-- This goes for contacts, too. Contacts are real people, never pieces of data.  
-- There’s a feature in our app called “lookalike audiences,” which is a way for our customers to market to people who are similar to their existing contacts. Always use the “lookalike” qualifier when referring to this feature to avoid confusion.
-
+* Don’t capitalize “audience” unless it’s grammatically necessary.
+* Don’t refer to an audience as “it.” Audiences are made up of real people, so always use “they.”
 
 ### Age
 
-Don’t reference a person’s age unless it’s relevant to what you’re writing. If it *is* relevant, include the person’s specific age, offset by commas.
+Don’t reference a person’s age unless it’s relevant to what you’re writing. If it is relevant, include the person’s specific age, offset by commas.
 
-- The CEO, 16, just got her driver’s license.
-
-Don’t refer to people using age-related descriptors like “young,” “old,” or “elderly.”
+* The CEO, 16, just got her driver’s license.
+* Don’t refer to people using age-related descriptors like “young,” “old,” or “elderly.”
 
 ### Disability
 
@@ -36,19 +32,19 @@ It’s OK to use “they” as a singular pronoun.
 
 Use the following words as modifiers, but never as nouns:
 
-- lesbian
-- gay
-- bisexual
-- transgender (never "transgendered")
-- trans
-- queer
-- LGBT
+* lesbian
+* gay
+* bisexual
+* transgender (never "transgendered")
+* trans
+* queer
+* LGBT
 
 Don’t use these words in reference to LGBT people or communities:
 
-- homosexual
-- lifestyle
-- preference
+* homosexual
+* lifestyle
+* preference
 
 Don’t use “same-sex” marriage, unless the distinction is relevant to what you’re writing. (Avoid “gay marriage.”) Otherwise, it’s just “marriage.”
 
