@@ -12,9 +12,9 @@ The way we write, review, and publish legal content is different than how we do 
 
 But that doesn't mean legal content has to be difficult to read. We try to present our legal information in the most pleasant way possible. Our goals for Esteemed's legal content are:
 
-* Accuracy. Our first and foremost concern is that we present the correct information in a truthful way.
-* Clarity. We try to avoid legal jargon and overly formal wording. Our users need to understand the agreement they’re making with us.
-* Succinctness. We want our users to read and understand our legal documents, while also respecting their time.
+* **Accuracy.** Our first and foremost concern is that we present the correct information in a truthful way.
+* **Clarity**. We try to avoid legal jargon and overly formal wording. Our users need to understand the agreement they’re making with us.
+* **Succinctness.** We want our users to read and understand our legal documents, while also respecting their time.
 
 ## Types of legal content
 
@@ -24,11 +24,11 @@ We publish several types of legal documents, each with their own writing process
 
 We keep these in one place on our legal page:
 
-* **Terms of use**
-* **Acceptable use policy**
-* **Privacy policy**
-* **API use policy**
-* **Copyright policy**
+* Terms of use
+* Acceptable use policy
+* Privacy policy
+* API use policy
+* Copyright policy
 
 These policies apply to all of Esteemed’s users. The Legal and Communication teams work together to make them as transparent and easy to read as possible. When someone signs up to use Esteemed, they must agree to all of those terms.
 
