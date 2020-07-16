@@ -42,7 +42,7 @@ Keep your content concise. Write with a clear purpose, and connect each paragrap
 
 Make the next step clear. Whether you’re asking people to buy something, read something, share something, or respond to something, offer a clear direction to close your message so readers know what to do next.
 
-#### Footer
+### Footer
 
 All campaigns follow CAN-SPAM rules. Include an unsubscribe link, mailing address, and permission reminder in the footer of each newsletter.
 
