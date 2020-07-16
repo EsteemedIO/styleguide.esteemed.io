@@ -4,7 +4,7 @@ title: Writing Blog Posts
 ---
 Esteemed blog posts are written by people from all over the company. We love having experts within the Esteemed Talent Network share their ideas, concepts, and experience with other developers and clients. We believe that the person most familiar with the subject is in the best position to convey it, and the writers on the marketing team can help with brainstorming and editing as needed.
 
-We have several blogs, including ones written by our WordPress and Drupal teams. This section will focus on the main Esteemed marketing blog, but the guidelines apply to the other channels, too.
+We have several blogs, including ones written by our WordPress and Drupal teams. This section will focus on the main Esteemed marketing blog, but the guidelines apply to the other channels, too. 
 
 ## Basics
 
