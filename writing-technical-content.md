@@ -35,7 +35,7 @@ Here are some examples of article templates we use.
 
 ### [Writing technical content](http://styleguide.esteemed.io/writing-technical-content.html)
 
-When writing technical content, follow the style points outlined in the [Voice and tone](https://styleguide.mailchimp.com/voice-and-tone) and [Grammar and mechanics](https://styleguide.mailchimp.com/grammar-and-mechanics) sections. Here are some other goals and pointers to keep in mind.
+When writing technical content, follow the style points outlined in the Voice and tone and Grammar and mechanics sections. Here are some other goals and pointers to keep in mind.
 
 #### Stay relevant to the title
 
