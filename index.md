@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Esteemed Content Style Guide
+title: 'Welcome to the Esteemed Content Style Guide '
 
 ---
 This style guide was created for Esteemed employees, but we hope it’s helpful for other content and communications teams too. It helps us write clear and consistent content across teams and channels. Please use it as a reference when you’re writing for Esteemed.
