@@ -10,7 +10,7 @@ This section lays out when to use a structured content template and how to creat
 
 While some content types are better served by a unique structure created by the writer, others lend themselves to a reusable structure. Blog posts, newsletter content, and most marketing copy are all examples of unstructured content that will vary from piece to piece. The more reusable your content might be, the more helpful a content template will be.
 
-Consider using a template
+Consider using a template 
 
 if:[https://styleguide.esteemed.io/creating-structured-content.html](https://styleguide.esteemed.io/creating-structured-content.html "https://styleguide.esteemed.io/creating-structured-content.html")
 
