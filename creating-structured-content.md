@@ -1,23 +1,25 @@
 ---
 title: Creating Structured Content
----
 
-At Mailchimp, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published. 
+---
+At Esteemed, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published.
 
 This section lays out when to use a structured content template and how to create a template of your own.
 
-## Basics
+## [Basics](https://styleguide.esteemed.io/creating-structured-content.html)
 
 While some content types are better served by a unique structure created by the writer, others lend themselves to a reusable structure. Blog posts, newsletter content, and most marketing copy are all examples of unstructured content that will vary from piece to piece. The more reusable your content might be, the more helpful a content template will be.
 
-Consider using a template if:
+Consider using a template
 
-- Users would benefit from seeing your content multiple places
-- Readers need to be able to scan it
-- Writers need to be able to create it quickly
-- You want to encourage repeat visits and familiarity with your content
+if:[https://styleguide.esteemed.io/creating-structured-content.html](https://styleguide.esteemed.io/creating-structured-content.html "https://styleguide.esteemed.io/creating-structured-content.html")
 
-All educational content at Mailchimp relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
+* Users would benefit from seeing your content multiple places
+* Readers need to be able to scan it
+* Writers need to be able to create it quickly
+* You want to encourage repeat visits and familiarity with your content
+
+All educational content at Esteemed relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
 
 ## Guidelines
 
@@ -31,10 +33,10 @@ As you read through the model document, make a list of all the individual parts 
 
 Common elements in templates are:
 
-- Title
-- Introduction
-- Body content (which can usually be broken apart into smaller elements)
-- Additional links
+* Title
+* Introduction
+* Body content (which can usually be broken apart into smaller elements)
+* Additional links
 
 Keep in mind that the template has to be reusable, so it's best to focus on the high-level goal of the content type, rather than the message of a particular piece.
 
