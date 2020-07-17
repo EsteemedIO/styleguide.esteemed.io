@@ -11,7 +11,7 @@ Esteemed has a presence on most major social media platforms. Here are our most 
 * Twitter: Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
 * Facebook: Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
 * LinkedIn: Product news, recruiting content, media mentions, evergreen content
-* Instagram: Design outtakes, cool office visitors, life at Esteemed, cool stuff we made
+* Instagram: Design outtakes, cool office visitors, life at Esteemed, cool stuff we made.
 
 **JOB POSTINGS**
 
