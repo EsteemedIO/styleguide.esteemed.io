@@ -66,7 +66,7 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 ### Numbers
 
-When a number begins a sentence, spell out the number. For all numbers except zero through nine, use a numeral. 
+When a number begins a sentence, spell out the number. For all numbers except zero through nine, use a numeral.
 
 Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
 
@@ -323,21 +323,6 @@ On first mention, write out United States. On subsequent mentions, US is fine. T
 Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
-
-#### Writing about Esteemed
-
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Esteemed." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Esteemed."
-
-Refer to Esteemed as “we,” not “it.”
-
-Capitalize branded terms, like Esteemed Presents. We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives.
-
-Don’t capitalize descriptive product or feature names, like email or landing pages.
-
-* Mandrill
-* templates
-* Esteemed’s mobile app
-* Essentials plan
 
 #### Writing about other companies
 
