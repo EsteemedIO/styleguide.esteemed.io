@@ -2,7 +2,7 @@
 title: TL;DR
 
 ---
-The Esteemed Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know. 
+The Esteemed Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## [Principles](https://styleguide.esteemed.io/tldr.html)
 
@@ -24,11 +24,9 @@ Esteemed’s voice is:
 
 Our tone changes depending on the situation, but it's generally informal. We have a sense of humor, but we value clarity over entertainment.
 
-Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
-
 ## Writing about people
 
-We write and build apps with a person-first perspective. Being aware of the impact of your language will help make Esteemed a better place to work and a better steward of our values in the world.
+We write and build our experiences with a person-first perspective. Being aware of the impact of your language will help make Esteemed a better place to work and a better steward of our values in the world.
 
 * Don’t reference age or disability unless it’s relevant to what you’re writing.
 * Avoid gendered language and use the singular “they.”
@@ -56,10 +54,10 @@ Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 * Organize your page around one topic.
 * Use clear, descriptive terms that relate to the topic in titles and headings.
 * Give every image descriptive alt text.
-* Buttons should always contain actions. The language should be clear and concise. Capitalize every word, including articles.
+* Buttons should always contain actions. 
 * Use sentence case for checkboxes and radio buttons.
 * Use title case for drop-down menu names and sentence case for menu items.
-* Use title case for form titles and sentence case for form fields. Only request information that we need and intend to use. Don’t ask for irrelevant personal information, like gender.
+* Use title case for form titles and sentence case for form fields. 
 * Use title case for main navigation. Use sentence case for subnavigation.
 * Use title case for headings and sentence case for subheadings.
 * Organize headings and subheadings in a hierarchy, with heading first, followed by subheadings in order.
