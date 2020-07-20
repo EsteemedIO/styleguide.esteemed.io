@@ -10,8 +10,6 @@ Every piece of content we publish is supported by a number of smaller pieces. Th
 
 Alt text is a way to label images, and it's especially important for people who can’t see the images on our website. Alt text should describe the image in a brief sentence or two.
 
-For more on how and why we use alt text, read the Accessibility section.
-
 ### Buttons
 
 Buttons should always contain actions. The language should be clear and concise. Capitalize every word, including articles. It’s OK to use an ampersand in button copy.
