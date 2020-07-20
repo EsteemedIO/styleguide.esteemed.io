@@ -2,13 +2,13 @@
 title: Grammar and Mechanics
 
 ---
-Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
+Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide.
 
 ## Basics
 
 **Write for all readers**. Some people will read every word you write. Others will just skim. Help everyone read better by grouping related ideas together and using descriptive headers and subheaders.
 
-**Write with Focus.** Create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
+**Write with focus.** Create a hierarchy of information. Lead with the main point or the most important content, in sentences, paragraphs, sections, and pages.
 
 **Be concise.** Use short words and sentences. Avoid unnecessary modifiers.
 
@@ -40,18 +40,14 @@ In active voice, the subject of the sentence does the action. In passive voice, 
 
 Words like “was” and “by” may indicate that you’re writing in passive voice. Scan for these words and rework sentences where they appear.
 
-One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
-
-* Your account was flagged by our Abuse team.
-
 ### Capitalization
 
 We use a few different forms of capitalization. Title case capitalizes the first letter of every word except articles, prepositions, and conjunctions. Sentence case capitalizes the first letter of the first word.
 
 When writing out an email address or website URL, use all lowercase.
 
-* [help@Esteemed](mailto:help@esteemed.io)
-* Esteemed
+* [help@esteemed](mailto:help@esteemed.io).io
+* esteemed.io
 
 Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](https://styleguide.esteemed.io/word-list.html).
 
@@ -70,11 +66,7 @@ Emoji are a fun way to add humor and visual interest to your writing, but use th
 
 ### Numbers
 
-When a number begins a sentence, spell out the number. In all other cases, use a numeral. Yes, this includes ordinals.
-
-Eleven new employees started on Monday, and 12 start next week.
-
-* I ate 3 donuts at Coffee Hour.
+When a number begins a sentence, spell out the number. For all numbers except zero through nine, use a numeral. 
 
 Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
 
@@ -179,7 +171,6 @@ When referring to decades more than 100 years ago, be more specific:
 The apostrophe’s most common use is making a word possessive. If the word already ends in an s and it’s singular, you also add an ‘s. If the word ends in an s and is plural, just add an apostrophe.
 
 * The client liked Albert’s resume.
-* The client liked Chris’s resume.
 * The client liked the developers’ resumes.
 
 Apostrophes can also be used to denote that you’ve dropped some letters from a word, usually for humor or emphasis. This is fine, but do it sparingly.
