@@ -2,7 +2,7 @@
 title: Writing for Accessibility
 
 ---
-We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational (broken glasses!) or more permanent.
+We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational or more permanent.
 
 ## [Basics](https://styleguide.esteemed.io/writing-for-accessibility.htnl/)
 
@@ -12,7 +12,7 @@ As you write, consider the following:
 
 * Would this language make sense to someone who doesn’t work here?
 * Could someone quickly scan this document and understand the material?
-* If someone can’t see the colors, images or video, is the message still clear? 
+* If someone can’t see the colors, images or video, is the message still clear?
 * Is the markup clean and structured?
 * Mobile devices with accessibility features are increasingly becoming core communication tools, does this work well on them?
 
