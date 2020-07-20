@@ -2,7 +2,7 @@
 title: Creating Structured Content
 
 ---
-At Esteemed, we write 2 kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published.
+At Esteemed, we write two kinds of content: structured and unstructured. Most of our technical and educational documents are structured, following standardized content templates. These templates make both writing and reading easier. They also help future-proof our documents, making it easier for developers to come in later and add semantic data to make the work reusable outside of where it was originally published.
 
 This section lays out when to use a structured content template and how to create a template of your own.
 
@@ -10,20 +10,16 @@ This section lays out when to use a structured content template and how to creat
 
 While some content types are better served by a unique structure created by the writer, others lend themselves to a reusable structure. Blog posts, newsletter content, and most marketing copy are all examples of unstructured content that will vary from piece to piece. The more reusable your content might be, the more helpful a content template will be.
 
-Consider using a template 
-
-if:[https://styleguide.esteemed.io/creating-structured-content.html](https://styleguide.esteemed.io/creating-structured-content.html "https://styleguide.esteemed.io/creating-structured-content.html")
+Consider using a template if:
 
 * Users would benefit from seeing your content multiple places
 * Readers need to be able to scan it
 * Writers need to be able to create it quickly
 * You want to encourage repeat visits and familiarity with your content
 
-All educational content at Esteemed relies heavily on content templates. We use templates for Technical Content, Integration Directory descriptions, marketing guides, and more.
-
 ## Guidelines
 
-If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are 2 main ways to approach this.
+If you’re looking for a template for your structured content but can’t find one that meets your needs, you may want to create your own. There are two main ways to approach this:
 
 ### Use a model
 
