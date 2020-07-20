@@ -11,8 +11,7 @@ Our email newsletters help empower and inform Esteemed users. Here are the most 
 * Regular weekly newsletters
 * Job descriptions and job postings
 * Blog features and other great news
-* Event invitations and information  
-  System alerts about changes to functionality or scheduled maintenance
+* Event invitations and information
 
 ## Guidelines
 
