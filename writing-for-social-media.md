@@ -8,26 +8,20 @@ We use social media to build relationships with Esteemed users and share all the
 
 Esteemed has a presence on most major social media platforms. Here are our most active accounts and what we usually post on each:
 
-* Twitter: Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
-* Facebook: Product news, brand marketing, events, media mentions, evergreen content, “we’re hiring!” posts
-* LinkedIn: Product news, recruiting content, media mentions, evergreen content
-* Instagram: Design outtakes, cool office visitors, life at Esteemed, cool stuff we made.
+###   
+**Job Postings**
 
-**JOB POSTINGS**
+Job Postings demonstrate the quality of jobs within our network, as well as help establish our online presence as tech recruiters. Use appropriate hashtags for each job, and jobs specific to each brand should be posted on their respective social sites. For example, a Drupal development opportunity should be posted on DrupalContractors, not WordPress Contractors.
 
-Job Postings demonstrate the quality of jobs within our network, as well as help establish our online presence as tech recruiters. Use appropriate hashtags for each job,   
-Jobs specific to each child-brand should be posted on their respective social sites. For example, a Drupal development opportunity should be posted on DrupalContractors, not WordPress Contractors.
+### **Industry-related News** 
 
-  
-**INDUSTRY-RELATED NEWS ARTICLES**
+Industry-related news  showcase that we are paying attention to the industry and care about its future. When choosing an industry-related news article, make sure the source is VALID, does not contain more than 30% ads, and not from a competitor. For subbrands, consider using an article or an update from the domain source. For instance, a WordPress industry-related news article should be published on the WordPress social media account, not the Drupal account.
 
-Industry-related news articles showcase that we are paying attention to the industry and care about its future. When choosing an industry-related news article, make sure the source is VALID, does not contain more than 30% ads, and not from a competitor. For child brands, consider using an article or an update from the domain source. For instance, a WordPress industry-related news article should be published on the WordPress social media account, not the Drupal account.
+### **Featured Talent**
 
-**FEATURED TALENT**
+When featuring members of our awesome community, we should make sure to link to their LinkedIn account. Showcasing the diversity and the ability of our talent is an awesome method for generating more inbound leads once we have a following, and a way for our top performing talent to get more exposure. 
 
-When featuring members of our awesome community, we should make sure to link to their LinkedIn account. Showcasing the diversity and the ability of our talent is an awesome method for generating more inbound leads once we have a following, and a way for our top performing talent to get more exposure. No matter the platform, we should share an image, (possibly link to their linkedin where they have Esteemed prominently on their page), and a quote from them about why they like what they do.
-
-**COMPANY UPDATES**
+### **Company Updates**
 
 Any particularly new or relevant information about Esteemed or any of the child brands should be shared. Likely this information will come through the CEO, alerting us to new awesome projects that we’ve completed that we can share, data about our talent network and diversity of jobs, or any additional information about the company that we deem necessary to provide to our audience.
 
@@ -51,8 +45,8 @@ Do your best to adhere to Esteemed style guidelines when you’re using our soci
 
 When appropriate, you can tag the subject of your post on Twitter or Facebook. But avoid directly tweeting at or otherwise publicly tagging a post subject with messages like, “Hey, we wrote about you!” Never ask for retweets, likes, or favorites.
 
-* Yes: “We talked with @lauraolin about turning her awesome emails into a book. http://blog.Esteemed/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”
-* No: “Hey @lauraolin, can you RT this post we wrote about you? http://blog.Esteemed/how-laura-olins-emails-got-her-freelance-work-and-a-book-deal”
+* Yes: “We talked with @remoteworklife about gaining independence as a contractor. 
+* No: “Hey @remoteworklife, can you RT this post we wrote about you? 
 
 ### Hashtags
 
@@ -60,4 +54,4 @@ We employ hashtags rarely and deliberately. We may use them to promote an event 
 
 ### Trending topics
 
-Do not use social media to comment on trending topics or current events that are unrelated to Esteemed.Be aware of what’s going on in the news when you're publishing social content for Esteemed. During major breaking news events, we turn off all promoted and scheduled social posts.
+Do not use social media to comment on trending topics or current events that are unrelated to Esteemed. Be aware of what’s going on in the news when you're publishing social content for Esteemed. 
