@@ -12,7 +12,7 @@ The same is true for Esteemed. Our voice doesn’t change much from day to day, 
 
 ## Voice
 
-At Esteemed, we’ve walked in our customers' shoes, and we know marketing technology is a minefield of confusing terminology. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when.
+At Esteemed, we’ve walked in our clients' shoes and we know how sourcing great talent can be challenging. We also know how it can be difficult to find awesome opportunities in tech. That’s why we speak like the experienced and compassionate business partner we wish we’d had way back when.
 
 Using offbeat humor and a conversational voice, we play with language to bring joy to their work. We prefer the subtle over the noisy, the wry over the farcical. We don't take ourselves too seriously.
 
@@ -20,10 +20,9 @@ Whether people know what they need from us or don’t know the first thing about
 
 All of this means that when we write copy:
 
-1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. Because businesses come to Esteemed to get to work, we avoid distractions like fluffy metaphors and cheap plays to emotion.
-2. **We are genuine.** We get small businesses because we were one not too long ago. That means we relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify B2B-speak and actually educate.
-4. **Our humor is dry**. Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
+1. **We are plainspoken.** We understand the world our customers are living in: one muddled by hyperbolic language, upsells, and over-promises. We strip all that away and value clarity above all. 
+2. **We are genuine.**  We relate to our clients’ and our talents' challenges and passions and speak to them in a familiar, warm, and accessible way.
+3. **Our humor is dry**. Our sense of humor is straight-faced, subtle, and a touch eccentric. We’re weird but not inappropriate, smart but not snobbish. We prefer winking to shouting. We’re never condescending or exclusive—we always bring our customers in on the joke.
 
 ## Tone
 
