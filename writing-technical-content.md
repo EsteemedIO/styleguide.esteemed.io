@@ -22,15 +22,6 @@ When relevant, provide a brief outline of an article’s focus in an introductor
 
 Technical content articles vary in target audience, goal, and tone. Esteemed technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader.
 
-Here are some examples of article templates we use.
-
-| --- | --- | --- |
-| Article Template | User Type | Goal |
-| Pathfinder | prospective, new, intermediate | Orientation. Bundle topics and provide links to relevant tutorials or general reference. |
-| General Reference | prospective, new, intermediate | Introduction. Provide a high-level explanation of what the feature is, how it works, and its benefit to the user. Include links to relevant tutorials. |
-| Troubleshooting | new, intermediate, advanced | Support. Outline expected behavior and include potential causes of unexpected behavior. Group by cause or topic. |
-| Tutorial | new, intermediate | Guidance. Briefly describe a task. Provide a roadmap and prerequisites, and clear step-by-step instructions. |
-
 ## [Guidelines](http://styleguide.esteemed.io/writing-technical-content.html)
 
 ### [Writing technical content](http://styleguide.esteemed.io/writing-technical-content.html)
