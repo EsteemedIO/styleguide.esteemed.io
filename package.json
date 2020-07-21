@@ -31,5 +31,8 @@
     "url": "git+https://github.com/EsteemedIO/esteemedio.github.io.git"
   },
   "author": "",
-  "homepage": "https://www.esteemed.io"
+  "homepage": "https://www.esteemed.io",
+  "dependencies": {
+    "bundler": "^0.8.0"
+  }
 }
