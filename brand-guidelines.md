@@ -3,7 +3,7 @@ title: Brand Guidelines
 published: false
 
 ---
-At Esteemed, technical content appears primarily in our guides and tutorials. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+![](/uploads/artboard-1-copy-2-150x.png)At Esteemed, technical content appears primarily in our guides and tutorials. This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## [Basics](https://styleguide.esteemed.io/writing-technical-content.html)
 
