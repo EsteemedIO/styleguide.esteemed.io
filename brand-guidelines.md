@@ -8,4 +8,5 @@ title: Brand Guidelines
 
 ![](/uploads/artboard-1-copy-2-150x.png)
 
-Brand Guidelines
+Brand Guidelines  
+![](/uploads/artboard-1-copy-2-150x.png)
