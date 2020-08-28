@@ -8,7 +8,7 @@ Thanks for helping out design creative for Esteemed. As we have a few different 
 
 ## Esteemed Color Palette
 
-![](/uploads/web-pallet-esteemed-2020-01-2.png)
+![](/uploads/esteemed-web-palette.png)
 
 ## WP Contractors & Drupal Contractors Color Palette
 
